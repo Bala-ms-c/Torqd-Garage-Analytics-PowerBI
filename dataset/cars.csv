@@ -1,0 +1,301 @@
+ProductID,Name,PremiumFlag,ModelType,Color,TyreType,YearReleased,BasePrice,Scale,Edition,SeriesName,CountryOfOrigin
+1,Mega Thrust,0,Sports,Silver,Plastic,1998,435.28,01:18,Treasure Hunt,Speed Machines,Malaysia
+2,Rip Rod,0,Concept,Red,Plastic,1974,635.92,01:18,Mainline Edition,Street Beasts,China
+3,Dodge Challenger SRT,0,Classic,Yellow,Rubber,2014,489.42,01:18,First Edition,Dream Garage,India
+4,HW Pursuit,1,Concept,Green,Plastic,1973,2385.72,01:18,First Edition,Dream Garage,China
+5,HW Formula Solar,1,Classic,Blue,Plastic,1982,1394.88,01:18,Collectors Edition,Legends,Thailand
+6,Cruise Bruiser,0,Concept,White,Plastic,1971,706.2,01:18,Treasure Hunt,HW Flames,Indonesia
+7,Winning Formula,1,Classic,Orange,Plastic,1979,1905.46,01:18,Mainline Edition,Speed Machines,Indonesia
+8,D-Muscle,1,Hypercar,Red,Plastic,2002,1460.72,01:18,Treasure Hunt,Legends,China
+9,Hot Wheels Armored Truck,0,Hypercar,Red,Rubber,1972,519.18,01:18,Mainline Edition,Street Beasts,Thailand
+10,68 Mercury Cougar,0,Classic,Black,Rubber,1978,314.11,01:18,Collectors Edition,Legends,China
+11,Electro Silhouette,1,Hypercar,Yellow,Rubber,1973,1912.38,01:18,First Edition,Speed Machines,Malaysia
+12,Prototype H-24,1,Classic,Black,Rubber,2017,2309.74,01:18,First Edition,Legends,Indonesia
+13,Super Blitzen,1,Sports,Blue,Plastic,2000,1753.16,01:18,Collectors Edition,Legends,India
+14,Hammerhead,1,Truck,Silver,Plastic,1986,1905.37,01:18,Treasure Hunt,Legends,Indonesia
+15,Street Wiener,0,Truck,Orange,Plastic,2020,447.05,01:18,Treasure Hunt,Legends,Malaysia
+16,Honda Civic Type R,0,Hypercar,White,Rubber,2016,746.23,01:18,Treasure Hunt,Speed Machines,India
+17,Hot Seat,1,Classic,White,Rubber,2008,1745.78,01:18,First Edition,Speed Machines,Malaysia
+18,Screamliner,1,Muscle,White,Plastic,2017,1713.41,01:18,Mainline Edition,Speed Machines,India
+19,The Gov'ner,1,Offroad,Green,Plastic,2007,1297.27,01:18,Mainline Edition,Speed Machines,Indonesia
+20,Porsche 911 GT3 RS,1,Offroad,Blue,Rubber,2005,1455.66,01:18,First Edition,Legends,Thailand
+21,Super Stinger,1,Hypercar,Black,Plastic,1998,2426.81,01:18,Mainline Edition,Street Beasts,China
+22,Way 2 Fast,1,Hypercar,Yellow,Rubber,1975,1948.72,01:18,Collectors Edition,Street Beasts,India
+23,Nissan Skyline GT-R (R34),1,Truck,Green,Rubber,2020,1827.01,01:18,Mainline Edition,Legends,Thailand
+24,Hover & Out,0,Concept,Blue,Rubber,1980,709.87,01:18,Mainline Edition,Legends,India
+25,Subaru WRX STI,1,Truck,Green,Plastic,2005,2398.5,01:18,Collectors Edition,Speed Machines,Malaysia
+26,RD-02,1,Concept,Black,Rubber,1973,1263.24,01:18,Collectors Edition,Street Beasts,Indonesia
+27,Muscle Bound,0,Muscle,Green,Plastic,1973,712.1,01:18,Mainline Edition,Dream Garage,China
+28,Roger Dodger,0,Muscle,Silver,Rubber,2024,454.83,01:18,Collectors Edition,HW Flames,Malaysia
+29,Velocity X,1,Truck,Orange,Rubber,1969,2386.03,01:18,Mainline Edition,HW Flames,Malaysia
+30,Skull Crusher,1,Concept,Silver,Plastic,1980,2446.55,01:18,Collectors Edition,Street Beasts,Malaysia
+31,Ford Mustang GT,1,Truck,Silver,Rubber,1981,1409.43,01:18,First Edition,Street Beasts,China
+32,Mad Manga,1,Sports,Green,Rubber,1980,1945.56,01:18,Mainline Edition,Street Beasts,Indonesia
+33,Eruption,0,Truck,Black,Rubber,1997,599.34,01:18,Collectors Edition,Street Beasts,India
+34,Veloci-Racer,1,Hypercar,Green,Plastic,2009,2104.71,01:18,First Edition,Street Beasts,Thailand
+35,Chevrolet Camaro SS,0,Truck,Black,Plastic,1975,684.5,01:18,First Edition,HW Flames,Indonesia
+36,Bone Shaker,1,Muscle,Orange,Plastic,2016,1349.85,01:18,Collectors Edition,Street Beasts,Thailand
+37,Deora II,1,Sports,Green,Plastic,1998,1627.85,01:18,Mainline Edition,Speed Machines,India
+38,Solar Reflex,0,Concept,Silver,Plastic,2014,590.37,01:18,Mainline Edition,Dream Garage,China
+39,Driftsta,0,Offroad,Red,Plastic,1979,584.27,01:18,Treasure Hunt,Dream Garage,Thailand
+40,Baja Truck,1,Offroad,Blue,Plastic,1995,1955.23,01:18,First Edition,Dream Garage,India
+41,24 Ours,0,Sports,Green,Plastic,2013,366.94,01:18,Collectors Edition,Dream Garage,China
+42,Twin Mill,1,Sports,Green,Rubber,1968,1704.58,01:18,First Edition,Legends,Thailand
+43,Crescendo,0,Muscle,Red,Rubber,1978,777.22,01:18,Mainline Edition,Legends,China
+44,Power Pistons,1,Truck,Orange,Rubber,1990,2487.6,01:18,Treasure Hunt,Speed Machines,China
+45,Formul8r,0,Hypercar,Red,Rubber,1989,738.04,01:18,Treasure Hunt,Street Beasts,Malaysia
+46,Tesla Roadster,0,Sports,Yellow,Plastic,2013,753.6,01:18,First Edition,Legends,Malaysia
+47,Blvd. Bruiser,1,Muscle,Silver,Plastic,2023,1527.11,01:18,Collectors Edition,Dream Garage,Indonesia
+48,What-4-2,1,Muscle,Blue,Plastic,1981,2091.04,01:18,Collectors Edition,Dream Garage,India
+49,Datsun 240Z,0,Concept,Green,Rubber,2014,525.53,01:18,Treasure Hunt,Speed Machines,Thailand
+50,Hyper Truck,0,Truck,Silver,Plastic,2015,493.36,01:18,Collectors Edition,Street Beasts,India
+51,Fast Fish,1,Muscle,White,Rubber,1994,1518.94,01:18,Collectors Edition,Dream Garage,India
+52,Hi-Roller,0,Muscle,Silver,Rubber,1993,381.69,01:18,Collectors Edition,Street Beasts,Malaysia
+53,Night Burner,0,Truck,Blue,Plastic,1974,673.48,01:18,Treasure Hunt,Speed Machines,India
+54,Mountain Mauler,1,Concept,Red,Plastic,1989,1329.35,01:18,Mainline Edition,Dream Garage,Indonesia
+55,Volkswagen Beetle,1,Classic,Yellow,Rubber,1970,1577.89,01:18,Mainline Edition,HW Flames,Thailand
+56,Mach Speeder,1,Classic,Yellow,Rubber,1982,1731.05,01:18,Collectors Edition,HW Flames,Thailand
+57,Slingshot,1,Hypercar,White,Rubber,1985,1842.15,01:18,Collectors Edition,Dream Garage,Indonesia
+58,Gazella GT,0,Truck,White,Rubber,1994,443.82,01:18,Treasure Hunt,Dream Garage,Thailand
+59,RD-10,1,Classic,Green,Plastic,2023,1499.44,01:18,Mainline Edition,Dream Garage,Malaysia
+60,El Viento,0,Muscle,Green,Rubber,1990,591.35,01:18,Mainline Edition,Dream Garage,Malaysia
+61,Fast 4WD,1,Sports,Green,Rubber,2001,1232.38,01:18,Mainline Edition,Speed Machines,Indonesia
+62,Aristorat,1,Hypercar,Silver,Plastic,2003,1777.99,01:18,Collectors Edition,Dream Garage,India
+63,The Nash,0,Hypercar,Green,Plastic,1975,384.25,01:18,Mainline Edition,Street Beasts,Indonesia
+64,Fandango,1,Hypercar,Black,Rubber,2001,1906.09,01:18,Mainline Edition,Street Beasts,India
+65,Power Rocket,1,Hypercar,Yellow,Plastic,1974,2224.1,01:18,First Edition,Street Beasts,India
+66,Jaded,0,Sports,Silver,Plastic,1982,762.41,01:18,First Edition,Dream Garage,Thailand
+67,Speed Slayer,0,Offroad,White,Plastic,2006,777.22,01:18,Mainline Edition,Street Beasts,Malaysia
+68,Overbored 454,0,Classic,White,Plastic,1983,373.21,01:18,First Edition,Street Beasts,Malaysia
+69,RD-06,1,Truck,Silver,Plastic,2018,1988.63,01:18,Collectors Edition,Street Beasts,Indonesia
+70,Skull Shaker,1,Muscle,Black,Rubber,2004,2160.46,01:18,Mainline Edition,Legends,Thailand
+71,Jet Threat 4.0,1,Truck,Blue,Rubber,1970,1546.96,01:18,Mainline Edition,Dream Garage,Malaysia
+72,Zombot,0,Truck,Green,Plastic,2003,748.02,01:18,Mainline Edition,Street Beasts,Thailand
+73,Custom Otto,0,Concept,White,Rubber,2002,490.78,01:18,Collectors Edition,Street Beasts,China
+74,Spine Buster,1,Muscle,Black,Rubber,1981,1653.33,01:18,First Edition,Street Beasts,Thailand
+75,Slickback,0,Classic,Silver,Rubber,2018,459.3,01:18,Collectors Edition,Dream Garage,Malaysia
+76,Turbone Charged,1,Truck,Yellow,Rubber,2010,1714.53,01:18,Collectors Edition,HW Flames,China
+77,Muscle Tone,0,Hypercar,Yellow,Plastic,1987,329.24,01:18,Mainline Edition,Dream Garage,India
+78,Torque Twister,1,Hypercar,Red,Plastic,2004,1740.5,01:18,Mainline Edition,Speed Machines,China
+79,Electrac,0,Hypercar,Orange,Plastic,1996,743.47,01:18,First Edition,Speed Machines,Indonesia
+80,Synkro,1,Hypercar,Orange,Plastic,1974,1964.11,01:18,Mainline Edition,Street Beasts,China
+81,Rev Rod,0,Muscle,Blue,Rubber,1982,660.18,01:18,Collectors Edition,HW Flames,Malaysia
+82,Formul8r MK II,0,Classic,Silver,Rubber,1972,382.14,01:18,Treasure Hunt,Speed Machines,Thailand
+83,Mountain Mauler MK II,0,Concept,Orange,Plastic,1977,498.65,01:18,Treasure Hunt,Speed Machines,Malaysia
+84,Screamliner MK II,1,Truck,Orange,Plastic,1984,1740.29,01:18,First Edition,Legends,Malaysia
+85,Mad Manga MK II,0,Classic,Blue,Plastic,1971,358.76,01:18,First Edition,HW Flames,Thailand
+86,Rev Rod MK II,1,Hypercar,Blue,Rubber,2000,1754.16,01:18,First Edition,HW Flames,India
+87,Screamliner MK II,0,Hypercar,Green,Rubber,2021,526.13,01:18,Collectors Edition,Dream Garage,Malaysia
+88,Twin Mill MK II,0,Hypercar,Orange,Plastic,1994,461.65,01:18,Collectors Edition,HW Flames,Thailand
+89,Muscle Bound MK II,0,Muscle,Blue,Plastic,1995,756.51,01:18,Mainline Edition,Legends,Indonesia
+90,Screamliner MK II,1,Classic,Green,Plastic,2023,1496.3,01:18,First Edition,Legends,India
+91,Way 2 Fast MK II,1,Sports,Green,Rubber,1975,2436.35,01:18,Collectors Edition,Speed Machines,Malaysia
+92,Skull Crusher MK II,1,Classic,Blue,Rubber,2012,2357.32,01:18,Mainline Edition,HW Flames,India
+93,HW Pursuit MK II,0,Sports,Yellow,Plastic,1968,684.77,01:18,Treasure Hunt,Dream Garage,Indonesia
+94,Jet Threat 4.0 MK II,1,Classic,Orange,Plastic,1985,1753.42,01:18,Collectors Edition,HW Flames,India
+95,Gazella GT MK II,1,Concept,Yellow,Rubber,1975,1587.18,01:18,Collectors Edition,Legends,India
+96,Solar Reflex MK II,0,Concept,Yellow,Plastic,1986,327.68,01:18,Treasure Hunt,HW Flames,India
+97,Hyper Truck MK II,0,Classic,Yellow,Rubber,1999,765.02,01:18,Collectors Edition,HW Flames,Indonesia
+98,Street Wiener MK II,0,Offroad,Black,Plastic,1997,390.29,01:18,First Edition,Legends,Indonesia
+99,Eruption MK II,1,Hypercar,Silver,Rubber,2023,1538.77,01:18,Treasure Hunt,Legends,Indonesia
+100,Zombot MK II,0,Hypercar,Black,Rubber,1987,761.36,01:18,Collectors Edition,Street Beasts,India
+101,Prototype H-24 MK II,1,Concept,Blue,Plastic,1990,1899.12,01:18,Collectors Edition,Legends,India
+102,Roger Dodger MK II,0,Sports,Silver,Rubber,2007,305.57,01:18,Collectors Edition,Legends,Malaysia
+103,Volkswagen Beetle MK II,1,Concept,Silver,Rubber,2014,2049.65,01:18,Treasure Hunt,Legends,Thailand
+104,RD-10 MK II,1,Classic,Yellow,Rubber,1984,1751.07,01:18,Collectors Edition,Legends,Thailand
+105,RD-10 MK II,1,Sports,Orange,Plastic,1974,1288.88,01:18,First Edition,HW Flames,Thailand
+106,Driftsta MK II,0,Hypercar,Orange,Plastic,1982,430.65,01:18,First Edition,Speed Machines,Malaysia
+107,Porsche 911 GT3 RS MK II,1,Concept,Yellow,Plastic,2006,1805.05,01:18,Collectors Edition,Legends,India
+108,Muscle Bound MK II,0,Concept,Yellow,Rubber,2000,594.25,01:18,Treasure Hunt,HW Flames,Malaysia
+109,Aristorat MK II,1,Muscle,Orange,Plastic,1997,1898.05,01:18,Treasure Hunt,Speed Machines,Indonesia
+110,Formul8r MK II,1,Muscle,Blue,Plastic,1993,2142.26,01:18,Treasure Hunt,Legends,Thailand
+111,Hot Seat MK II,1,Sports,Orange,Plastic,1984,1915.14,01:18,First Edition,Legends,Indonesia
+112,Hover & Out MK II,1,Classic,Yellow,Rubber,2014,1603.38,01:18,First Edition,Street Beasts,Indonesia
+113,Speed Slayer MK II,1,Sports,Red,Plastic,2020,2454.39,01:18,Treasure Hunt,Dream Garage,Indonesia
+114,Electro Silhouette MK II,0,Hypercar,Blue,Plastic,1978,716.61,01:18,Mainline Edition,Dream Garage,China
+115,68 Mercury Cougar MK II,0,Offroad,Black,Rubber,2017,340.24,01:18,Collectors Edition,Dream Garage,China
+116,Hammerhead MK II,1,Sports,Silver,Rubber,2012,1616.45,01:18,Treasure Hunt,Street Beasts,China
+117,Hammerhead MK II,0,Truck,Blue,Plastic,1999,626.8,01:18,Collectors Edition,Speed Machines,Indonesia
+118,Jaded MK II,0,Hypercar,Orange,Plastic,2001,608.2,01:18,Collectors Edition,Dream Garage,India
+119,Super Blitzen MK II,1,Hypercar,Silver,Rubber,1991,1562.38,01:18,First Edition,Street Beasts,China
+120,Crescendo MK II,1,Muscle,Orange,Rubber,1979,1363.02,01:18,Mainline Edition,Street Beasts,Malaysia
+121,D-Muscle MK II,0,Sports,Black,Rubber,1974,533.03,01:18,Treasure Hunt,Legends,India
+122,Roger Dodger MK II,1,Muscle,Red,Plastic,1978,2158.71,01:18,Collectors Edition,Street Beasts,Malaysia
+123,Datsun 240Z MK II,0,Sports,Black,Rubber,1985,518.85,01:18,Collectors Edition,Dream Garage,Indonesia
+124,Fandango MK II,0,Truck,Silver,Rubber,2010,532.17,01:18,Mainline Edition,Street Beasts,Thailand
+125,Datsun 240Z MK II,1,Truck,Black,Plastic,2012,2040.89,01:18,Treasure Hunt,Legends,Malaysia
+126,Hi-Roller MK II,0,Classic,Silver,Plastic,1995,536.51,01:18,Treasure Hunt,Speed Machines,Malaysia
+127,RD-10 MK II,1,Hypercar,White,Plastic,1989,2371.94,01:18,First Edition,Street Beasts,Malaysia
+128,Twin Mill MK II,0,Sports,Blue,Plastic,1986,720.75,01:18,First Edition,Legends,Thailand
+129,Spine Buster MK II,1,Sports,Black,Plastic,1994,1785.31,01:18,Mainline Edition,Speed Machines,China
+130,Screamliner MK II,1,Classic,Blue,Plastic,1969,1358.19,01:18,First Edition,HW Flames,India
+131,24 Ours MK II,1,Hypercar,Silver,Rubber,1984,1551.9,01:18,Collectors Edition,Dream Garage,China
+132,Nissan Skyline GT-R (R34) MK II,0,Hypercar,Orange,Rubber,1974,565.81,01:18,First Edition,Legends,India
+133,D-Muscle MK II,1,Truck,Yellow,Rubber,1978,1831.66,01:18,Collectors Edition,Dream Garage,China
+134,Rip Rod MK II,0,Muscle,Silver,Plastic,1987,625.93,01:18,Mainline Edition,HW Flames,Malaysia
+135,Prototype H-24 MK II,1,Truck,Blue,Rubber,2007,1771,01:18,Collectors Edition,Dream Garage,Malaysia
+136,Dodge Challenger SRT MK II,0,Classic,Yellow,Rubber,1980,788.89,01:18,Treasure Hunt,Dream Garage,Malaysia
+137,Turbone Charged MK II,1,Hypercar,Silver,Rubber,1978,1788.28,01:18,Treasure Hunt,Legends,India
+138,Mach Speeder MK II,1,Concept,Blue,Rubber,1980,2470.2,01:18,Collectors Edition,Speed Machines,Indonesia
+139,Dodge Challenger SRT MK II,0,Concept,Silver,Plastic,2021,750.6,01:18,Collectors Edition,Dream Garage,India
+140,Cruise Bruiser MK II,1,Sports,Red,Rubber,2008,1599.53,01:18,Collectors Edition,HW Flames,China
+141,Hyper Truck MK II,0,Muscle,Black,Rubber,1983,534.03,01:18,First Edition,Legends,India
+142,Cruise Bruiser MK II,0,Hypercar,Yellow,Rubber,1980,396.08,01:18,Mainline Edition,Legends,Malaysia
+143,Street Wiener MK II,0,Concept,Orange,Plastic,2004,703.37,01:18,First Edition,Legends,Indonesia
+144,Power Pistons MK II,1,Hypercar,Yellow,Plastic,2007,1223.62,01:18,Mainline Edition,Street Beasts,Malaysia
+145,Muscle Tone MK II,1,Hypercar,Yellow,Rubber,1978,1589.73,01:18,Treasure Hunt,HW Flames,Malaysia
+146,Spine Buster MK II,1,Sports,Orange,Plastic,2020,1795.93,01:18,First Edition,Legends,Indonesia
+147,Custom Otto MK II,1,Concept,White,Rubber,2015,1690.31,01:18,Collectors Edition,Street Beasts,Indonesia
+148,Power Rocket MK II,0,Hypercar,Green,Plastic,1988,364.03,01:18,First Edition,Dream Garage,India
+149,Hyper Truck MK II,1,Classic,Silver,Plastic,2001,1987.22,01:18,First Edition,Street Beasts,Indonesia
+150,Turbone Charged MK II,0,Sports,Orange,Rubber,2005,752.06,01:18,First Edition,Street Beasts,China
+151,D-Muscle MK II,1,Truck,Silver,Rubber,1986,1527.84,01:18,First Edition,Legends,Malaysia
+152,Electro Silhouette MK II,0,Offroad,White,Rubber,1973,750.63,01:24,Mainline Edition,Legends,Indonesia
+153,Veloci-Racer MK II,1,Truck,Black,Plastic,1991,1939.92,01:24,Collectors Edition,Dream Garage,China
+154,El Viento MK II,0,Sports,Green,Rubber,2018,311.62,01:24,First Edition,HW Flames,India
+155,Datsun 240Z MK II,1,Sports,White,Plastic,1993,1280.05,01:24,Collectors Edition,Legends,Malaysia
+156,Datsun 240Z MK II,0,Offroad,Blue,Plastic,1994,646.5,01:24,Treasure Hunt,Street Beasts,India
+157,Spine Buster MK II,1,Classic,Green,Plastic,1999,1863.6,01:24,First Edition,Legends,Malaysia
+158,Volkswagen Beetle MK II,1,Offroad,Red,Plastic,2021,2143.22,01:24,Mainline Edition,Speed Machines,China
+159,Dodge Challenger SRT MK II,0,Hypercar,Black,Plastic,1999,325.56,01:24,Collectors Edition,Speed Machines,Thailand
+160,Power Rocket MK II,1,Concept,Black,Plastic,1972,2493.65,01:24,Treasure Hunt,Dream Garage,India
+161,Prototype H-24 MK II,0,Concept,Red,Plastic,2000,613.62,01:24,Mainline Edition,Dream Garage,Malaysia
+162,Turbone Charged MK II,1,Classic,Orange,Plastic,1992,2279.9,01:24,First Edition,Speed Machines,Thailand
+163,RD-06 MK II,0,Classic,Blue,Plastic,2015,636.22,01:24,First Edition,HW Flames,China
+164,Aristorat MK II,0,Concept,Blue,Plastic,2020,457.07,01:24,Treasure Hunt,Dream Garage,China
+165,Jaded MK II,1,Truck,Yellow,Rubber,1994,2058.94,01:24,First Edition,Street Beasts,Indonesia
+166,Bone Shaker MK II,0,Hypercar,White,Rubber,1982,760.06,01:24,Treasure Hunt,HW Flames,India
+167,Tesla Roadster MK II,0,Offroad,White,Plastic,2018,597.56,01:24,Mainline Edition,Speed Machines,Thailand
+168,Crescendo MK II,0,Muscle,Orange,Plastic,1982,361.05,01:24,Treasure Hunt,Dream Garage,China
+169,Blvd. Bruiser MK II,0,Truck,Orange,Plastic,2023,571.67,01:24,First Edition,HW Flames,Indonesia
+170,HW Formula Solar MK II,1,Muscle,Yellow,Plastic,1997,2121.8,01:24,Treasure Hunt,Street Beasts,Indonesia
+171,Velocity X MK II,1,Offroad,Silver,Rubber,1984,2042.91,01:24,First Edition,Dream Garage,Indonesia
+172,Synkro MK II,0,Truck,Green,Rubber,1974,630.5,01:24,Treasure Hunt,Speed Machines,China
+173,Driftsta MK II,0,Truck,Orange,Plastic,2007,383.69,01:24,Collectors Edition,Speed Machines,China
+174,Torque Twister MK II,0,Classic,Black,Plastic,1977,332.15,01:24,First Edition,HW Flames,Malaysia
+175,Mega Thrust MK II,1,Muscle,Yellow,Rubber,1978,1677.6,01:24,First Edition,Speed Machines,India
+176,Jet Threat 4.0 MK II,1,Classic,Red,Plastic,1972,1234.3,01:24,Collectors Edition,HW Flames,China
+177,Slingshot MK II,1,Truck,Blue,Rubber,1992,2021.58,01:24,First Edition,Speed Machines,Indonesia
+178,RD-10 MK II,0,Classic,White,Rubber,1978,300.83,01:24,First Edition,HW Flames,Indonesia
+179,Mega Thrust MK II,0,Sports,White,Rubber,1973,560.3,01:24,Mainline Edition,Legends,Indonesia
+180,Mad Manga MK II,1,Muscle,Red,Rubber,2020,1272.15,01:24,Collectors Edition,Legends,Indonesia
+181,Driftsta MK II,1,Truck,Green,Rubber,1988,2238.78,01:24,Treasure Hunt,Street Beasts,Thailand
+182,Hi-Roller MK II,0,Offroad,Silver,Rubber,1994,787.95,01:24,First Edition,Street Beasts,Indonesia
+183,Hover & Out MK II,0,Muscle,Blue,Plastic,2016,374.52,01:24,First Edition,Legends,Malaysia
+184,Cruise Bruiser MK II,0,Classic,Orange,Plastic,1981,356.33,01:24,Collectors Edition,HW Flames,Malaysia
+185,Hi-Roller MK II,0,Truck,Blue,Plastic,1972,361.67,01:24,First Edition,HW Flames,Indonesia
+186,Eruption MK II,1,Hypercar,White,Rubber,1968,1640.4,01:24,Mainline Edition,Dream Garage,Thailand
+187,Jet Threat 4.0 MK II,0,Hypercar,Black,Rubber,2019,570.37,01:24,Treasure Hunt,Dream Garage,Indonesia
+188,Mach Speeder MK II,1,Sports,Black,Plastic,1980,2459.92,01:24,Treasure Hunt,Street Beasts,India
+189,Ford Mustang GT MK II,0,Classic,Yellow,Plastic,1976,449.13,01:24,Treasure Hunt,Street Beasts,Indonesia
+190,Fast 4WD MK II,1,Classic,Yellow,Rubber,2010,1935.26,01:24,First Edition,Speed Machines,Thailand
+191,Jaded MK II,1,Sports,Yellow,Plastic,2015,1925.15,01:24,First Edition,Street Beasts,Malaysia
+192,Hammerhead MK II,1,Classic,Red,Rubber,2018,2449.84,01:24,Collectors Edition,Dream Garage,Thailand
+193,Screamliner MK II,0,Truck,Green,Plastic,1971,764.04,01:24,Collectors Edition,Legends,Malaysia
+194,Spine Buster MK II,1,Hypercar,Red,Rubber,1996,2376.94,01:24,Collectors Edition,Speed Machines,Thailand
+195,Mad Manga MK II,0,Concept,Silver,Plastic,2006,342.81,01:24,Mainline Edition,Dream Garage,India
+196,Electro Silhouette MK II,0,Offroad,White,Rubber,1979,682.63,01:24,Mainline Edition,Street Beasts,China
+197,Prototype H-24 MK II,1,Sports,White,Rubber,1976,1880.59,01:24,First Edition,HW Flames,India
+198,Veloci-Racer MK II,1,Offroad,Orange,Rubber,1984,1516.04,01:24,Mainline Edition,Dream Garage,China
+199,Nissan Skyline GT-R (R34) MK II,0,Muscle,Yellow,Rubber,2014,408.57,01:24,Collectors Edition,HW Flames,Thailand
+200,Bone Shaker MK II,1,Offroad,Yellow,Plastic,2012,1342.97,01:24,Collectors Edition,HW Flames,China
+201,Twin Mill MK II,0,Concept,White,Plastic,1993,335.92,01:24,Mainline Edition,HW Flames,Malaysia
+202,Gazella GT MK II,1,Offroad,Silver,Rubber,1981,1815.16,01:24,Treasure Hunt,Speed Machines,Thailand
+203,Slingshot MK II,0,Offroad,Yellow,Plastic,2010,652.92,01:24,Treasure Hunt,Street Beasts,Indonesia
+204,Chevrolet Camaro SS MK II,1,Sports,Red,Plastic,2007,1597.48,01:24,Treasure Hunt,Speed Machines,China
+205,Aristorat MK II,1,Sports,Yellow,Plastic,1981,1468.58,01:24,Collectors Edition,Street Beasts,Thailand
+206,Subaru WRX STI MK II,1,Muscle,White,Plastic,2015,2055.1,01:24,Mainline Edition,Speed Machines,China
+207,Hot Wheels Armored Truck MK II,0,Concept,Orange,Plastic,2023,532.79,01:24,Treasure Hunt,Legends,Malaysia
+208,The Gov'ner MK II,1,Muscle,Silver,Plastic,2016,2234.8,01:24,Treasure Hunt,Legends,Malaysia
+209,HW Pursuit MK II,0,Hypercar,Yellow,Plastic,2015,562.69,01:24,First Edition,Speed Machines,Indonesia
+210,24 Ours MK II,0,Offroad,Orange,Rubber,1984,496.84,01:24,Treasure Hunt,Legends,Thailand
+211,Skull Shaker MK II,1,Concept,Green,Rubber,1976,1652.47,01:24,Treasure Hunt,HW Flames,Thailand
+212,Blvd. Bruiser MK II,0,Classic,Red,Plastic,1976,738.96,01:24,First Edition,Street Beasts,Thailand
+213,Baja Truck MK II,0,Muscle,Silver,Plastic,2015,616.95,01:24,Mainline Edition,Dream Garage,Thailand
+214,Bone Shaker MK II,1,Truck,Black,Plastic,1989,1715.25,01:24,First Edition,HW Flames,Indonesia
+215,Dodge Challenger SRT MK II,1,Muscle,White,Plastic,1993,2379.51,01:24,First Edition,Legends,China
+216,RD-06 MK II,0,Truck,Black,Rubber,1977,601.34,01:24,Treasure Hunt,Speed Machines,Malaysia
+217,Gazella GT MK II,0,Truck,Silver,Plastic,1992,727.59,01:24,Treasure Hunt,Legends,Indonesia
+218,Fandango MK II,0,Concept,Orange,Plastic,1974,580.64,01:24,Mainline Edition,Street Beasts,Thailand
+219,RD-10 MK II,1,Hypercar,Silver,Rubber,1971,1574.4,01:24,First Edition,Street Beasts,Thailand
+220,Formul8r MK II,0,Offroad,White,Plastic,2004,636.07,01:24,Collectors Edition,Dream Garage,Indonesia
+221,Jet Threat 4.0 MK II,0,Concept,Black,Plastic,1996,691.46,01:24,First Edition,Legends,Malaysia
+222,Driftsta MK II,1,Concept,Green,Rubber,1974,1906.16,01:24,Mainline Edition,Street Beasts,India
+223,Speed Slayer MK II,1,Truck,White,Rubber,2004,1427.36,01:24,First Edition,HW Flames,Malaysia
+224,Aristorat MK II,1,Concept,Orange,Plastic,2002,1969.38,01:24,Treasure Hunt,Legends,China
+225,Hi-Roller MK II,0,Offroad,Orange,Rubber,1995,634.29,01:24,Collectors Edition,Speed Machines,China
+226,Street Wiener MK II,1,Concept,White,Rubber,1977,2384.16,01:24,Mainline Edition,Street Beasts,Indonesia
+227,Slingshot MK II,1,Truck,Orange,Plastic,2023,2044.03,01:24,First Edition,Street Beasts,India
+228,HW Formula Solar MK II,0,Muscle,Yellow,Rubber,2005,451.26,01:24,Collectors Edition,Dream Garage,Thailand
+229,Crescendo MK II,1,Muscle,White,Plastic,1993,1882.34,01:24,Mainline Edition,Legends,Thailand
+230,Eruption MK II,1,Classic,Black,Plastic,1997,1340.62,01:24,First Edition,Speed Machines,Indonesia
+231,Super Stinger MK II,1,Truck,Silver,Rubber,1980,1437.44,01:24,Mainline Edition,Dream Garage,India
+232,Muscle Tone MK II,0,Hypercar,Orange,Plastic,2016,543.16,01:24,Mainline Edition,Legends,India
+233,Zombot MK II,0,Offroad,Black,Rubber,2018,573.08,01:24,First Edition,HW Flames,Malaysia
+234,Tesla Roadster MK II,1,Truck,Orange,Rubber,1993,1690.73,01:24,Collectors Edition,Legends,Thailand
+235,Twin Mill MK II,1,Sports,Blue,Plastic,1974,1816.58,01:24,Mainline Edition,HW Flames,Thailand
+236,Hyper Truck MK II,0,Classic,Silver,Plastic,1971,570.33,01:24,First Edition,Legends,India
+237,Driftsta MK II,0,Muscle,Yellow,Plastic,1987,627.7,01:24,First Edition,HW Flames,India
+238,RD-06 MK II,1,Classic,Red,Rubber,1977,2094.69,01:24,Collectors Edition,Speed Machines,China
+239,Mega Thrust MK II,0,Hypercar,Blue,Plastic,1991,681.44,01:24,Mainline Edition,Speed Machines,China
+240,Muscle Tone MK II,0,Concept,Blue,Plastic,2009,448.34,01:24,Treasure Hunt,Speed Machines,Indonesia
+241,Slingshot MK II,1,Sports,Green,Rubber,2010,2470.08,01:24,Collectors Edition,Street Beasts,Malaysia
+242,Skull Crusher MK II,1,Muscle,Red,Plastic,2020,1806.7,01:24,Treasure Hunt,Legends,Indonesia
+243,Electrac MK II,0,Offroad,Blue,Rubber,1968,347.21,01:24,Collectors Edition,Street Beasts,India
+244,Jet Threat 4.0 MK II,0,Hypercar,Black,Plastic,2006,318.38,01:24,Treasure Hunt,Dream Garage,Indonesia
+245,Super Stinger MK II,0,Concept,Blue,Rubber,1970,436.23,01:24,Treasure Hunt,HW Flames,India
+246,Volkswagen Beetle MK II,0,Truck,Green,Rubber,1987,545.6,01:24,First Edition,Legends,Malaysia
+247,Baja Truck MK II,0,Hypercar,Blue,Plastic,1991,668.79,01:24,Mainline Edition,HW Flames,Thailand
+248,Dodge Challenger SRT MK II,0,Muscle,White,Plastic,1993,312.44,01:24,First Edition,Street Beasts,China
+249,Eruption MK II,0,Muscle,Orange,Rubber,1978,448.89,01:24,Treasure Hunt,Street Beasts,Thailand
+250,Baja Truck MK II,0,Classic,Silver,Rubber,1975,762.81,01:24,Mainline Edition,Legends,India
+251,El Viento MK II,0,Truck,Red,Rubber,1993,716.42,01:24,Collectors Edition,Legends,India
+252,Way 2 Fast MK II,0,Hypercar,Silver,Plastic,1978,538.53,01:24,Mainline Edition,Speed Machines,Thailand
+253,Prototype H-24 MK II,1,Offroad,Black,Rubber,2008,2178.94,01:24,Treasure Hunt,HW Flames,Malaysia
+254,Mad Manga MK II,0,Sports,Yellow,Plastic,1972,439.18,01:24,First Edition,Speed Machines,India
+255,Volkswagen Beetle MK II,0,Concept,White,Plastic,2018,389.55,01:24,First Edition,Dream Garage,Malaysia
+256,Ford Mustang GT MK II,0,Offroad,Green,Rubber,1983,448.79,01:24,Mainline Edition,Speed Machines,China
+257,Nissan Skyline GT-R (R34) MK II,0,Truck,Blue,Plastic,2013,501.9,01:24,First Edition,Street Beasts,Malaysia
+258,Eruption MK II,1,Sports,Red,Plastic,1974,1821.93,01:24,Mainline Edition,HW Flames,China
+259,Way 2 Fast MK II,0,Sports,Red,Rubber,1998,439.83,01:24,Collectors Edition,Street Beasts,Thailand
+260,RD-02 MK II,1,Classic,White,Plastic,1980,1866.13,01:24,Mainline Edition,Speed Machines,India
+261,Hover & Out MK II,1,Muscle,Orange,Rubber,1977,2185.16,01:24,Collectors Edition,Legends,Malaysia
+262,Winning Formula MK II,1,Sports,White,Rubber,1973,2191.63,01:24,Mainline Edition,Street Beasts,China
+263,Slingshot MK II,1,Truck,Blue,Rubber,2020,1211.32,01:24,Collectors Edition,Street Beasts,China
+264,Synkro MK II,0,Hypercar,Silver,Plastic,2016,619.11,01:24,Mainline Edition,Dream Garage,India
+265,Rev Rod MK II,0,Muscle,Black,Rubber,1997,719.06,01:24,First Edition,HW Flames,India
+266,Twin Mill MK II,0,Hypercar,Yellow,Rubber,1990,458.5,01:24,Treasure Hunt,Legends,Thailand
+267,Fast Fish MK II,0,Truck,Orange,Rubber,1980,720.98,01:24,First Edition,Street Beasts,Malaysia
+268,Speed Slayer MK II,1,Muscle,White,Rubber,1996,1259.07,01:24,First Edition,HW Flames,India
+269,Driftsta MK II,1,Classic,White,Plastic,2020,1360.11,01:24,First Edition,Legends,Malaysia
+270,Honda Civic Type R MK II,0,Classic,Yellow,Rubber,2024,515.91,01:24,Mainline Edition,HW Flames,China
+271,Electro Silhouette MK II,0,Concept,Black,Plastic,2024,653.73,01:24,Collectors Edition,Speed Machines,Malaysia
+272,Power Pistons MK II,0,Truck,Yellow,Rubber,1997,548.96,01:24,First Edition,Dream Garage,India
+273,Screamliner MK II,0,Truck,Blue,Rubber,2008,753.84,01:24,Collectors Edition,HW Flames,China
+274,Nissan Skyline GT-R (R34) MK II,1,Concept,Blue,Plastic,1981,1366,01:24,Collectors Edition,Legends,China
+275,Aristorat MK II,0,Hypercar,Yellow,Plastic,1972,501.47,01:24,Collectors Edition,Legends,Indonesia
+276,Porsche 911 GT3 RS MK II,0,Offroad,Silver,Rubber,2009,557.66,01:24,Treasure Hunt,HW Flames,Thailand
+277,Ford Mustang GT MK II,1,Truck,Silver,Rubber,2013,2100.52,01:24,Collectors Edition,Dream Garage,Malaysia
+278,Tesla Roadster MK II,1,Muscle,Silver,Rubber,1986,1414.03,01:24,Treasure Hunt,Speed Machines,Indonesia
+279,Gazella GT MK II,0,Truck,Silver,Rubber,2014,648.36,01:24,Collectors Edition,Legends,Thailand
+280,Overbored 454 MK II,0,Truck,Green,Plastic,2005,445.95,01:24,First Edition,Legends,India
+281,HW Formula Solar MK II,0,Hypercar,Green,Rubber,1976,645.07,01:24,First Edition,Legends,India
+282,The Nash MK II,1,Concept,Black,Plastic,2006,2042.33,01:24,First Edition,Speed Machines,Thailand
+283,Eruption MK II,1,Classic,Green,Plastic,2000,1250.86,01:24,Treasure Hunt,Speed Machines,Indonesia
+284,The Nash MK II,1,Truck,Silver,Plastic,1988,1202.72,01:24,Mainline Edition,Dream Garage,Malaysia
+285,Baja Truck MK II,0,Truck,Green,Plastic,2020,627.63,01:24,Treasure Hunt,Street Beasts,China
+286,Nissan Skyline GT-R (R34) MK II,0,Offroad,Yellow,Plastic,1977,346.59,01:24,First Edition,Street Beasts,China
+287,Super Blitzen MK II,0,Muscle,Yellow,Plastic,2012,687.3,01:24,Treasure Hunt,HW Flames,India
+288,Dodge Challenger SRT MK II,0,Sports,Orange,Plastic,1970,426.19,01:24,First Edition,Dream Garage,China
+289,Muscle Tone MK II,0,Offroad,Red,Rubber,1985,411.12,01:24,First Edition,Legends,China
+290,Hi-Roller MK II,0,Muscle,Green,Plastic,2007,515.73,01:24,Mainline Edition,Speed Machines,China
+291,Datsun 240Z MK II,1,Hypercar,Red,Rubber,1971,1903.4,01:24,Collectors Edition,HW Flames,Indonesia
+292,Cruise Bruiser MK II,0,Classic,Yellow,Plastic,2018,403.26,01:24,Collectors Edition,HW Flames,India
+293,Dodge Challenger SRT MK II,1,Hypercar,Yellow,Rubber,2008,1781.59,01:24,Mainline Edition,Street Beasts,Thailand
+294,Ford Mustang GT MK II,1,Hypercar,Green,Plastic,1994,1971.51,01:24,Collectors Edition,Speed Machines,Indonesia
+295,Chevrolet Camaro SS MK II,0,Truck,White,Rubber,2009,333.92,01:24,First Edition,Legends,China
+296,Winning Formula MK II,1,Muscle,Red,Rubber,2022,2404.2,01:24,First Edition,HW Flames,China
+297,Driftsta MK II,0,Concept,Orange,Rubber,2005,404.06,01:24,Collectors Edition,Legends,Indonesia
+298,Roger Dodger MK II,0,Classic,Green,Rubber,1973,494.53,01:24,First Edition,Speed Machines,India
+299,The Gov'ner MK II,0,Muscle,Silver,Plastic,2018,687.52,01:24,Collectors Edition,Dream Garage,India
+300,Blvd. Bruiser MK II,1,Hypercar,Silver,Plastic,1968,1307.52,01:24,First Edition,Legends,Thailand
